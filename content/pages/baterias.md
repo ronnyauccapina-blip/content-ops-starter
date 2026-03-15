@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: baterias
 sections:
   - type: GenericSection
     title:
