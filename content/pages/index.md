@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: sistema fotovolataico instalado en la ascope 276
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
