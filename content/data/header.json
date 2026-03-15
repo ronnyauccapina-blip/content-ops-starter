@@ -43,7 +43,7 @@
             "links": [
                 {
                     "label": "PANELES",
-                    "url": "/",
+                    "url": "/paneles",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
